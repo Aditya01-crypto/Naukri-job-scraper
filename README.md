@@ -78,7 +78,7 @@ MIT License - Feel free to use and modify
 ## 👤 Author
 
 **[Aditya Padiyara]**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [@Aditya01-crypto]
 - Learning web scraping and automation
 
 ---
