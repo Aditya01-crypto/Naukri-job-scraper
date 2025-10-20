@@ -23,8 +23,8 @@ Automated web scraper that extracts job listings from Naukri.com based on search
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/naukri-job-scraper.git
-cd naukri-job-scraper
+git clone https://github.com/Aditya01-crypto/Naukri-job-scraper.git
+cd Naukri-job-scraper
 
 # Install dependencies
 pip install playwright
